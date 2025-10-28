@@ -36,9 +36,6 @@ npm run preview
 3. Faça commits claros e descritivos.
 4. Abra um Pull Request quando pronto.
 
-## Licença
-
-Este projeto está sob a licença MIT — veja o arquivo `LICENSE`.
 
 ## Contato
 
